@@ -12,6 +12,6 @@
     "cheerio": "^1.0.0-rc.2",
     "jeezy": "^1.12.13",
     "request": "^2.83.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
